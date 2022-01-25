@@ -71,7 +71,7 @@ function App() {
           correct: false,
         },
         {
-          text: "Daniel Red Cliff",
+          text: "Daniel Radcliffe",
           correct: true,
         },
       ],
